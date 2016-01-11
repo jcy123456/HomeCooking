@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">HomeCooking</string>
+    <string name="app_name">家常菜</string>
+    <string name="home">首页</string>
+    <string name="shengxian">生鲜</string>
+    <string name="zhuanti">专题</string>
+    <string name="search">搜索</string>
+    <string name="my">个人</string>
 </resources>
